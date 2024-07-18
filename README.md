@@ -9,7 +9,7 @@ The dataset includes the following fields:
 - `firstname`: The first name of the user.
 - `lastname`: The last name of the user.
 - `sex`: The sex of the user (m/f).
-- `phone`: The unique phone number of the user.
+- `phone`: The unique phone number of the user (randomly generated).
 - `email`: The unique email address of the user.
 - `password`: The password of the user.
 - `address`: The address of the user.
